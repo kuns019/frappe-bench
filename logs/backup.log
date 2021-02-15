@@ -1,0 +1,12 @@
+mysqldump --single-transaction --quick --lock-tables=false -u _ad03fa1a016ca1c4 -pBYhr7SnNLoW2JUL0 _ad03fa1a016ca1c4 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20210130_180002-library_test-database.sql.gz
+
+Backup Summary for library.test at 2021-01-30 18:00:03.083762
+Config  : ./library.test/private/backups/20210130_180002-library_test-site_config_backup.json 116.0B
+Database: ./library.test/private/backups/20210130_180002-library_test-database.sql.gz         264.7KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _ad03fa1a016ca1c4 -pBYhr7SnNLoW2JUL0 _ad03fa1a016ca1c4 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20210208_000004-library_test-database.sql.gz
+
+Backup Summary for library.test at 2021-02-08 00:00:05.588041
+Config  : ./library.test/private/backups/20210208_000004-library_test-site_config_backup.json 116.0B
+Database: ./library.test/private/backups/20210208_000004-library_test-database.sql.gz         284.8KiB
+Backup for Site library.test has been successfully completed

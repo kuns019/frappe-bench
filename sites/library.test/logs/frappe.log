@@ -1,0 +1,12 @@
+2021-01-24 14:52:09,890 ERROR frappe New Exception collected with id: 2021-01-24 14:52:09.758003-127.0.0.1-312
+Site: library.test
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.sign_up', 'email': '62070084@it.kmitl.ac.th', 'redirect_to': '', 'full_name': 'Thanayut'}
+2021-01-24 14:54:18,544 ERROR frappe New Exception collected with id: 2021-01-24 14:54:18.531767-127.0.0.1-783
+Site: library.test
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': '62070084@it.kmitl.ac.th'}
+2021-01-24 14:54:24,060 ERROR frappe New Exception collected with id: 2021-01-24 14:54:24.048146-127.0.0.1-ea8
+Site: library.test
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': '62070084@it.kmitl.ac.th'}
+2021-01-28 17:10:08,286 ERROR frappe New Exception collected with id: 2021-01-28 17:10:08.162714-127.0.0.1-b6d
+Site: library.test
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': '62070084@it.kmitl.ac.th'}
